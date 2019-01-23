@@ -1,0 +1,6 @@
+D:\Bootcamp MII\Bootcamp.OOP\Bootcamp.OOP\bin\Debug\Bootcamp.OOP.exe.config
+D:\Bootcamp MII\Bootcamp.OOP\Bootcamp.OOP\bin\Debug\Bootcamp.OOP.exe
+D:\Bootcamp MII\Bootcamp.OOP\Bootcamp.OOP\bin\Debug\Bootcamp.OOP.pdb
+D:\Bootcamp MII\Bootcamp.OOP\Bootcamp.OOP\obj\Debug\Bootcamp.OOP.csprojResolveAssemblyReference.cache
+D:\Bootcamp MII\Bootcamp.OOP\Bootcamp.OOP\obj\Debug\Bootcamp.OOP.exe
+D:\Bootcamp MII\Bootcamp.OOP\Bootcamp.OOP\obj\Debug\Bootcamp.OOP.pdb
